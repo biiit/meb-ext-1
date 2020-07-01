@@ -1,0 +1,10 @@
+{
+  "name": "meb-ext-1",
+  "provider": "sap",
+  "description": "meb's ext #1",
+  "version": "0.0.1",
+  "icon": "",
+  "dockerRegistry": "beatmeiersap",
+  "helmChartVersion": "0.0.1",
+  "parameters": []
+}
