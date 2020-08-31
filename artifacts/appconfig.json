@@ -3,7 +3,7 @@
   "provider": "sap",
   "description": "meb's ext #1",
   "version": "0.0.1",
-  "icon": "http://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg",
+  "icon": "https://banner2.cleanpng.com/20180821/hiq/kisspng-logo-apache-http-server-apache-software-foundation-apache-performance-tuning-sysinfo-io-5b7c0e12385ba7.9035614115348567222309.jpg",
   "dockerRegistry": "beatmeiersap",
   "helmChartVersion": "0.0.1",
   "parameters": []
